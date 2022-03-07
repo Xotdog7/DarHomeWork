@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DarHomeWork/static/css/main.473c9312.css",
+    "main.js": "/DarHomeWork/static/js/main.46f44ff0.js",
+    "index.html": "/DarHomeWork/index.html",
+    "main.473c9312.css.map": "/DarHomeWork/static/css/main.473c9312.css.map",
+    "main.46f44ff0.js.map": "/DarHomeWork/static/js/main.46f44ff0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.473c9312.css",
+    "static/js/main.46f44ff0.js"
+  ]
+}
